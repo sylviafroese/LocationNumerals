@@ -1,0 +1,7 @@
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\bin\Debug\LocationNumerals.exe.config
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\bin\Debug\LocationNumerals.exe
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\bin\Debug\LocationNumerals.pdb
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\obj\Debug\LocationNumerals.csproj.CoreCompileInputs.cache
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\obj\Debug\LocationNumerals.exe
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\obj\Debug\LocationNumerals.pdb
+C:\Users\slfroese\Terracor\TerracorChallenge1\LocationNumerals\obj\Debug\LocationNumerals.csprojAssemblyReference.cache
